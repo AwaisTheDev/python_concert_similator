@@ -1,0 +1,60 @@
+[Backdrop]
+filepath: backdrop_image1.jpg
+
+[Light1]
+color: green
+position: [250, 390]
+direction: 90
+intensity: 1
+distribution: [[230, 600], [270, 600], [270, 610], [230, 610]]
+
+[Light2]
+color: yellow
+position: [350, 390]
+direction: 90
+intensity: 100
+distribution: [[330, 600], [370, 600], [370, 610], [330, 610]]
+
+[Light3]
+color: yellow
+position: [350, 390]
+direction: 90
+intensity: 1
+distribution: [[330, 600], [370, 600], [370, 610], [330, 610]]
+
+[Light4]
+color: red
+position: [350, 200]
+direction: 90
+intensity: 1
+distribution: [[330, 600], [370, 600], [430, 200], [270, 200]]
+
+[Light5]
+color: blue
+position: [250, 200]
+direction: 90
+intensity: 1
+distribution: [[230, 600], [270, 600], [330, 200], [170, 200]]
+
+
+[Light6]
+color: orange 
+position: [150, 390]
+direction: 90
+intensity: 1
+distribution: [[130, 600], [170, 600], [170, 610], [130, 610]]
+
+
+[Light7]
+color: purple 
+position: [150, 200]
+direction: 90
+intensity: 1
+distribution: [[130, 600], [170, 600], [230, 200], [70, 200]]
+    
+[Light8]
+color: pink
+position: [450, 200]
+direction: 90
+intensity: 1
+distribution: [[430, 600], [470, 600], [530, 200], [370, 200]]
